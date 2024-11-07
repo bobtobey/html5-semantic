@@ -1,0 +1,17 @@
+{
+  "name": "html5-semantic-template-kit",
+  "version": "1.0.0",
+  "description": "A starter kit featuring a semantic HTML5 template with well-structured tags and minimal styling. Ideal for creating accessible and standards-compliant web projects from scratch.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -c-1 "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bobtobey/public-projects.git"
+  },
+  "keywords": ["HTML5","template","boilerplate","semantic"],
+  "author": "Bob Tobey",
+  "license": "MIT"
+}
