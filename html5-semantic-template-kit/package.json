@@ -1,6 +1,6 @@
 {
   "name": "html5-semantic-template-kit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A starter kit featuring a semantic HTML5 template with well-structured tags and minimal styling. Ideal for creating accessible and standards-compliant web projects from scratch.",
   "main": "index.html",
   "scripts": {
